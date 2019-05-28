@@ -5,7 +5,8 @@ const korwin1 = [
     "Proszę mnie dobrze zrozumieć:",
     "Ja chciałem państwu przypomnieć, że",
     "Niech państwo nie mają złudzeń:",
-    "Powiedzmy to wyraźnie:"
+    "Powiedzmy to wyraźnie:",
+    "Mnie uczono (za komuny to było), że"
 ];
 
 const korwin2 = [
@@ -15,7 +16,10 @@ const korwin2 = [
     "tak zwani ekolodzy",
     "ci wszyscy (tfu!) demokraci",
     "agenci bezpieki",
-    "feminazistki"
+    "feminazistki",
+    "marksiści, leniniści, maoiści",
+    "agenci SB",
+    "unijni biurokraci"
 ];
 
 const korwin3 = [
@@ -25,7 +29,8 @@ const korwin3 = [
     "celowo i świadomie",
     "z premedytacją",
     "od czasów Okrągłego Stołu",
-    "w ramach postępu"
+    "w ramach postępu",
+    "na skutek umów w Magdalence i przy Okrągłym Stole"
 ];
 
 const korwin4 = [
@@ -35,11 +40,12 @@ const korwin4 = [
     "głoszą brednie o globalnym ociepleniu",
     "zakazują posiadania broni",
     "nie dopuszczają prawicy do władzy",
-    "uczą dzieci homoseksualizmu"
+    "uczą dzieci homoseksualizmu",
+    "wydają miliony na walkę z globalnym ociepleniem"
 ];
 
 const korwin5 = [
-    "bo dzięki temu moga kraść",
+    "bo dzięki temu mogą kraść",
     "bo dostają za to pieniądze",
     "bo tak się uczy w państwowej szkole",
     "bo bez tego (tfu!) demokracja nie może istnieć",
@@ -55,7 +61,9 @@ const korwin6 = [
     "ale przyjdą muzułmanie i zrobią porządek",
     "- tak samo zresztą jak za Hitlera",
     "- proszę zobaczyć, co się dzieje na Zachodzie, jeśli mi państwo nie wierzą",
-    "co lat temu sto nikomu nie przyszłoby nawet do głowy"
+    "co lat temu sto nikomu nie przyszłoby nawet do głowy",
+    "dlatego musimy zabić, kurwa, tych ludzi!",
+    "- ja to powtarzam od trzydziestu pięciu lat"
 ];
 
 module.exports = function() {
