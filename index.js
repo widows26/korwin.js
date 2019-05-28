@@ -32,7 +32,8 @@ const korwin3 = [
     "od czasów Okrągłego Stołu",
     "w ramach postępu",
     "na skutek umów w Magdalence i przy Okrągłym Stole",
-    "w ramach walki z tak zwanym globalnym ociepleniem"
+    "w ramach walki z tak zwanym globalnym ociepleniem",
+    "sponsorowani przez Amerykanów"
 ];
 
 const korwin4 = [
@@ -44,7 +45,7 @@ const korwin4 = [
     "nie dopuszczają prawicy do władzy",
     "uczą dzieci homoseksualizmu",
     "próbują nas uciszyć",
-    "zatrudniają coraz więcej urzędników urzędników"
+    "zatrudniają coraz więcej urzędników"
 ];
 
 const korwin5 = [
@@ -68,7 +69,7 @@ const korwin6 = [
     "co lat temu sto nikomu nie przyszłoby nawet do głowy",
     "dlatego musimy zabić, kurwa, tych ludzi!",
     "- ja o tym mówię od trzydziestu pięciu lat",
-    "dlatego Unię Europejską musimy zniszczyć"
+    "- dlatego Unię Europejską musimy zniszczyć"
 ];
 
 module.exports = function() {
