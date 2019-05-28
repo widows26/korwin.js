@@ -1,0 +1,21 @@
+{
+  "name": "korwin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artur9010/korwin.js.git"
+  },
+  "author": "artur9010",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artur9010/korwin.js/issues"
+  },
+  "homepage": "https://github.com/artur9010/korwin.js#readme"
+}
