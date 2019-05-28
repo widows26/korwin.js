@@ -5,7 +5,8 @@ const korwin1 = [
     "Proszę mnie dobrze zrozumieć:",
     "Ja chciałem państwu przypomnieć, że",
     "Niech państwo nie mają złudzeń:",
-    "Powiedzmy to wyraźnie:"
+    "Powiedzmy to wyraźnie:",
+    "Mnie uczono (za komuny to było), że"
 ];
 
 const korwin2 = [
@@ -15,7 +16,11 @@ const korwin2 = [
     "tak zwani ekolodzy",
     "ci wszyscy (tfu!) demokraci",
     "agenci bezpieki",
-    "feminazistki"
+    "feminazistki",
+    "marksiści, leniniści, maoiści",
+    "agenci Kiszczaka",
+    "unijni biurokraci",
+    "socjaliści - wszystko jedno - zieloni, czerwoni czy niebiescy"
 ];
 
 const korwin3 = [
@@ -25,7 +30,9 @@ const korwin3 = [
     "celowo i świadomie",
     "z premedytacją",
     "od czasów Okrągłego Stołu",
-    "w ramach postępu"
+    "w ramach postępu",
+    "na skutek umów w Magdalence i przy Okrągłym Stole",
+    "w ramach walki z tak zwanym globalnym ociepleniem"
 ];
 
 const korwin4 = [
@@ -35,17 +42,20 @@ const korwin4 = [
     "głoszą brednie o globalnym ociepleniu",
     "zakazują posiadania broni",
     "nie dopuszczają prawicy do władzy",
-    "uczą dzieci homoseksualizmu"
+    "uczą dzieci homoseksualizmu",
+    "próbują nas uciszyć",
+    "zatrudniają coraz więcej urzędników urzędników"
 ];
 
 const korwin5 = [
-    "bo dzięki temu moga kraść",
+    "bo dzięki temu mogą kraść",
     "bo dostają za to pieniądze",
     "bo tak się uczy w państwowej szkole",
     "bo bez tego (tfu!) demokracja nie może istnieć",
     "bo głupich jest więcej niż mądrych",
     "bo chcą stworzyć raj na ziemi",
-    "bo chcą niszczyć cywilizacje białego człowieka"
+    "bo chcą niszczyć cywilizacje białego człowieka",
+    "ponieważ są socjalistami"
 ];
 
 const korwin6 = [
@@ -55,7 +65,10 @@ const korwin6 = [
     "ale przyjdą muzułmanie i zrobią porządek",
     "- tak samo zresztą jak za Hitlera",
     "- proszę zobaczyć, co się dzieje na Zachodzie, jeśli mi państwo nie wierzą",
-    "co lat temu sto nikomu nie przyszłoby nawet do głowy"
+    "co lat temu sto nikomu nie przyszłoby nawet do głowy",
+    "dlatego musimy zabić, kurwa, tych ludzi!",
+    "- ja o tym mówię od trzydziestu pięciu lat",
+    "dlatego Unię Europejską musimy zniszczyć"
 ];
 
 module.exports = function() {
